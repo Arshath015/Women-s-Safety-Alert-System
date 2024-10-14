@@ -8,7 +8,7 @@ This project is an SMS-based alert system for women's safety that sends an emerg
 - **Streamlit Interface:** Provides a simple user interface for entering the location and sending alerts.
 
 ## Prerequisites:
-1. **Twilio Account:** Sign up at [Twilio](https://www.twilio.com/) and get your `Account SID`, `Auth Token`, and `Twilio Phone Number`.
+1. **Twilio Account:** Sign up at [Twilio](https://www.twilio.com/) and get your `Account SID`, `Auth Token`, and `Twilio Phone Number` (https://youtu.be/CK31fOgI18M?si=x8BjnUb9GftVUKDJ).
 2. **Python Environment:** Make sure you have Python 3.x installed.
 3. **Streamlit:** Install Streamlit for the front-end user interface.
 4. **Twilio Python SDK:** Install the Twilio Python library for SMS integration.
