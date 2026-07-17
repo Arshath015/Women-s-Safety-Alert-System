@@ -45,3 +45,10 @@ This project is an SMS-based alert system for women's safety that sends an emerg
 This project is licensed under the MIT License.
 
 
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
