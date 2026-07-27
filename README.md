@@ -1,5 +1,7 @@
 # Women's Safety Alert System
 
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+
 This project is an SMS-based alert system for women's safety that sends an emergency notification when the user inputs their location. The alert system uses Twilio's messaging service to send an SMS to a pre-configured recipient.
 
 ## Features:
